@@ -20,4 +20,7 @@
   Run the application and go through all of the questions that come up. After you are finished, open up the index.html file in chrome to see if the cards were generated.
   ## Questions
   Please reach out to @nicholasamarillo or email nicholasamarillo@gmail.com
+
+  ## DEMO
+  [![Watch the video](./assets/demo.gif)]
       
